@@ -2,6 +2,3 @@
 # NEA-Project-23-25
 Repository for A level CS NEA project files
 
-You must ensure that all your code is committed here on a regular basis.
-
-Think about the structure of you code. It should be decomposed into seperate files.
